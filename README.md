@@ -37,7 +37,7 @@ The goal of this project is to predict whether a customer is likely to churn bas
 ### ANN Model – Churn Prediction Interface
 
 <p align="center">
-  <img src="ANN_chrun1.png" width="700"/>
+  <img src="ANN_churn1.png" width="700"/>
 </p>
 
 <p align="center">
